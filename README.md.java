@@ -49,5 +49,8 @@ int[][] matrix = {
  {0, 0, 0},
 {1, 0, 1}
 
+##Time Complexity: O(m*n)
+##Space Complexity: O(1)
+
 ## 🔗 Here is the link to the original problem on LeetCode:
 LeetCode – Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
